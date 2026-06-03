@@ -3,7 +3,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 use MongoDB\Client;
 
 try {
-    $mongoUri = getenv('MONGODB_URI') ?: 'mongodb+srv://mukharjeetanisha05_db_user:Tanisha123@cluster0.591exvf.mongodb.net/?appName=Cluster0';
+    $mongoUri = getenv('MONGODB_URI') ?: 'ADD MONGODB_URI';
     $dbName = getenv('MONGODB_DB') ?: 'bytebite_db';
     $client = new Client($mongoUri);
     $db = $client->selectDatabase($dbName);
