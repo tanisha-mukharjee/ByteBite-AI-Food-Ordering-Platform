@@ -235,7 +235,8 @@ Screenshots and live demo will be added in future updates.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/tanisha-mukharjee/AI_FOOD_ORDER_SYSTEM.git
+git clone 
+git clone [https://github.com/tanisha-mukharjee/AI_FOOD_ORDER_SYSTEM.git](https://github.com/tanisha-mukharjee/ByteBite-AI-Food-Ordering-Platform.git)
 ```
 
 ### Navigate to Project
