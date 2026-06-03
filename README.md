@@ -22,6 +22,24 @@ The project focuses on delivering a scalable and user-friendly solution that dem
 
 ---
 
+## 🌟 Why ByteBite?
+
+Most food ordering platforms focus only on transactions.
+
+ByteBite combines:
+
+* AI-powered recommendations
+* Smart chatbot assistance
+* Secure authentication
+* Online payments
+* Personalized user experience
+
+to create a modern food ordering ecosystem rather than just a food delivery website.
+
+The project was developed to demonstrate full-stack development, backend engineering, AI integration, and real-world software architecture concepts.
+
+---
+
 ## ✨ Features
 
 ### 👤 User Features
@@ -289,6 +307,22 @@ This project helped strengthen my skills in:
 * Advanced Recommendation Engine
 * Multi-Restaurant Support
 * Docker Deployment
+
+---
+
+## 📈 Project Metrics
+
+| Category | Details |
+|----------|----------|
+| Development Type | Full-Stack Web Application |
+| Backend | PHP |
+| Database | MongoDB |
+| Authentication | Google OAuth |
+| Payment Gateway | Stripe |
+| AI Features | Recommendation Engine + Chatbot |
+| Architecture | Modular MVC-style Structure |
+| Version Control | Git & GitHub |
+| Status | Active Development |
 
 ---
 
