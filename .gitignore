@@ -1,0 +1,5 @@
+vendor/
+node_modules/
+includes/google_config.php
+includes/stripe_config.php
+.env

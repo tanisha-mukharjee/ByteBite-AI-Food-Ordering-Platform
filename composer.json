@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.19",
+        "google/apiclient": "2.15",
+        "stripe/stripe-php": "^19.4"
+    }
+}
