@@ -171,33 +171,39 @@ ByteBite/
 
 ---
 
-## 📸 Screenshots
+## 🎥 Project Preview
 
-### Home Page
+Screenshots and live demo will be added in future updates.
 
-(Add Screenshot)
+### Current Development Status
 
-### Menu Page
+✅ User Authentication
 
-(Add Screenshot)
+✅ Google OAuth Login
 
-### AI Recommendation System
+✅ Food Menu Management
 
-(Add Screenshot)
+✅ Shopping Cart System
 
-### Shopping Cart
+✅ Order Placement Workflow
 
-(Add Screenshot)
+✅ MongoDB Integration
 
-### User Dashboard
+✅ AI Food Recommendation System
 
-(Add Screenshot)
+✅ Chatbot Assistant
 
-### Admin Dashboard
+✅ Stripe Payment Integration
 
-(Add Screenshot)
+✅ User Profile Management
 
----
+🚧 Live Deployment (Coming Soon)
+
+🚧 Admin Analytics Dashboard
+
+🚧 Real-Time Order Tracking
+
+----
 
 ## ⚙️ Installation Guide
 
